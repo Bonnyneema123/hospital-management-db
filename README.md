@@ -40,6 +40,19 @@ Connects patients and doctors using foreign keys and manages appointment schedul
 ##Project Purpose
 This project was created as part of my learning journey in Database Administration to build practical skills and prepare for real-world IT and data management roles.
 ---
+##Technologies Used
+-PostgreSQL
+-SQL
+-GitHub
+-pgAdmin
+-Command Line (psql)
+----
+##Future Improvements
+-Billing module
+-Pharmacy module
+-Laboratory module
+-User authentication
+---
 ## Author
 Neema Bonny
 Database Administrator | SQL
