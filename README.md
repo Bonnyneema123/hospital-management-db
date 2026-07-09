@@ -55,11 +55,11 @@ This project was created as part of my learning journey in Database Administrati
 ---
 ## Project Screenshots
 ### Entity Relationship Diagram(ERD)
-![ERD](screenshot/erd.png)
+![ERD](screenshots/erd.png)
 ## Database Tables
-![Tables](screenshot/tables.png)
+![Tables](screenshots/tables.png)
 ### JOIN Query Result
-![JOIN Query](screenshot/JOIN.png)
+![JOIN Query](screenshots/JOIN.png)
 ----
 ## Author
 Neema Bonny
