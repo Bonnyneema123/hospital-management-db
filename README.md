@@ -53,6 +53,14 @@ This project was created as part of my learning journey in Database Administrati
 -Laboratory module
 -User authentication
 ---
+## Project Screenshots
+### Entity Relationship Diagram(ERD)
+![ERD](screenshot/erd.png)
+## Database Tables
+![Tables](screenshot/tables.png)
+### JOIN Query Result
+![JOIN Query](screenshot/JOIN.png)
+----
 ## Author
 Neema Bonny
 Database Administrator | SQL
